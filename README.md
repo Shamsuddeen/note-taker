@@ -7,7 +7,7 @@ With our step-by-step approach, even beginners can follow along and create a ful
 Whether you're a student looking to organize your studies or a professional seeking to streamline your work processes, this tutorial is for you. 
 Let's get started!
 
-[Read the tutorial at Dev.to](https://dev.to/omacys/build-a-basic-note-taking-app-with-mongodb-nodejs-express-and-bootstrap-a-step-by-step-guide-for-beginners-2hio-temp-slug-7262994/edit)
+[Read the tutorial at Dev.to](https://dev.to/omacys/build-a-basic-note-taking-app-with-mongodb-nodejs-express-and-bootstrap-a-step-by-step-guide-for-beginners-1f5k)
 
 ## Environment Setup
 - Clone this repo to your local computer
